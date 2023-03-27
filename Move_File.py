@@ -1,8 +1,8 @@
 import os
 import shutil
 
-from_dir="C:/Users/Lenovo/Downloads"
-to_dir='C:/Users/Lenovo/Desktop/BFS/Python/C&P 102/Project 102/'
+from_dir= "You Source"
+to_dir= "Your Destinaion"
 list_of_files=os.listdir(from_dir)
 
 for i in list_of_files:
